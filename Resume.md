@@ -7,7 +7,7 @@ Resume
 
 #### Phone:(425) 445-3985 
 #### Email: cris.n.carney@gmail.com
-#### Adddress1512 E Fir St Lower Unit, Seatle, WA 98122
+#### Address: 1512 E Fir St Lower Unit, Seatle, WA 98122
 
 Thank you for your time and consideration! 
 
@@ -24,12 +24,12 @@ Thank you for your time and consideration!
 
 
 ##<span id="skills">Skills</span>
-*	7 Years of Technical Customer Supoort experience
-*	Technical Support for computer hardware, software, online applications, websites, training, writing knowledge bases
+*	Carreer in Technical Customer Supoort, since 2006.
+*	Technical Support for computer hardware, software, online applications, websites
 *	Supporting desktops, laptops, printers, wireless connectivity, Microsoft Office
 *	Database Management Experience
-*	5 years working in Healthcare Industry
-*	Experience in Records Management
+*	Knowledge Bases: Creating, maintaining, writing articles, and managing employee contribution
+*	Experience with user training and new emloyee training. 
 
 ###Programs I've worked with, used, and supported: 
 | CRM Tools | Databases | Supported | Programming (some experience) |
