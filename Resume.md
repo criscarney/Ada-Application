@@ -29,21 +29,24 @@ Resume
 *	Database Management Experience
 *	5 years working in Healthcare Industry
 *	Experience in Records Management
-	
-###Programs I've worked with
 
-Expert Support for Proprietary Software and Web Based Services</br> 
-Worked with: Service Desk, Salesforce.com, Netsuite.com, Goldmine, Active Directory, Sharepoint</br> 
-Experince Using: MS Access 97, 03, 07, SQL 05, 08, </br> 
-Supported: MS Outlook, MS Office Suite 03, 10, Microsoft Vista OS, MS Windows 7 OS, MS Exchange</br> 
-Ada Application: Perl, Markdown, Github, Photobucket.
+###Programs I've worked with, used, and supported: 
+| CRM Tools | Databases | Supported | Programming (some experience) |
+| ------------- | ------------- | ------------| ----------|
+| Service Desk  | Microsoft Access 97 | MS Outlook | Java Tutorial Udemmy.com |
+| Salesforce.com | Access 2000 | MS Office Suite 03, 0 | Installed Strawberry Perl |
+| Netsuite.com | Access 2003 | MS Vista, Windows 7, Windows 8 | Markdown |
+| Goldmine |  Access 2007 | MS Exchange | Github |
+| Sharepoint | Access 2010 | Cell phones & Smart Phones |  HTML |
+| Active Directory | SQL 2005 & 2008 | Wireless Devices | Command Line |
 
-##A short run down of what I've Supported... 
+
+##Short list, products supported. 
 
 ###Verizon Wireless:
-All cell phones, smart phones, PDA's, and Wireless Data connectivity devices circa 2007. 
-Setting up email on capable devices. 
-Training on how to use devices.
+* All cell phones, smart phones, PDA's, and Wireless Data connectivity devices circa 2007. 
+* Setting up email on capable devices. 
+* Training on how to use devices.
 
 ###Starbucks:
 * All hardware and software used by all employees in North America, including Canada and the UK including Ireland & Scotland.</br>
