@@ -2,7 +2,8 @@
 ##Step 4: Tarot Reader Logic Assessment 
 ###Read the logic assessment and respond to the questions below. 
 
-<a href='#answers'>Answers</a>
+<a href='#answers'>Answers</a> 
+
 <a href='#coolcats'>CoolCats</a>
 
 
