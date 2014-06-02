@@ -1,8 +1,6 @@
 <body style="background:#66CCCC">
 #[Cris Carney](http://www.facebook.com/criscarney)
-####For your listening pleasure...
 
-<iframe width="300" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/22835961&amp;auto_play=false&amp;hide_related=false&amp;visual=true"></iframe>
 
 Resume
 ===
@@ -10,6 +8,9 @@ Resume
 #### Phone:(425) 445-3985 
 #### Email: cris.n.carney@gmail.com
 #### Adddress1512 E Fir St Lower Unit, Seatle, WA 98122
+
+Thank you for your time and consideration! 
+
 
 <a href="http://s56.photobucket.com/user/poetichk/media/d402e399-9a98-438b-826b-ac6a48bea848.jpg.html" target="_blank"><img src="http://i56.photobucket.com/albums/g191/poetichk/d402e399-9a98-438b-826b-ac6a48bea848.jpg" border="0" alt=" photo d402e399-9a98-438b-826b-ac6a48bea848.jpg"width="375" height="350"/></a>
 
@@ -20,7 +21,7 @@ Resume
 2. <a href='#experience'>Experience</a>
 3. <a href='#education'>Education</a>
 4. <a href='#recommendations'>Written Recommendations</a>
-***
+
 
 ##<span id="skills">Skills</span>
 *	7 Years of Technical Customer Supoort experience
