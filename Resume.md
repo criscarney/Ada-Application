@@ -20,7 +20,7 @@ Thank you for your time and consideration!
 1. <a href='#skills'>Skills</a>
 2. <a href='#experience'>Experience</a>
 3. <a href='#education'>Education</a>
-4. <a href='#recommendations'>Written Recommendations</a>
+4. <a href='#recommendations'>Recommendations</a>
 
 
 ##<span id="skills">Skills</span>
@@ -146,7 +146,7 @@ Classes: Anatomy & Physiology, Medical Terminiology, and Statistics. Upon taking
 Upon finding out Ada Developers Acadmeny in October of 2013, I have known I would apply to the 2014-2015 ADA school year. </br>
 
 ---
-#<span id="recommendations">Written Recommendations</span>
+#<span id="recommendations">Recommendations</span>
 
 
 Dear Cris,<br />
