@@ -1,6 +1,5 @@
 <body style="background:#66CCCC">
-#[Cris Carney](www.linkedin.com/pub/cris-carney/7/8a2/a7b/)
-
+#[Cris Carney](https://www.linkedin.com/pub/cris-carney/7/8a2/a7b)
 
 Resume
 ===
