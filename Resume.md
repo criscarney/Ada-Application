@@ -1,5 +1,5 @@
 <body style="background:#66CCCC">
-#[Cris Carney](http://www.facebook.com/criscarney)
+#[Cris Carney](www.linkedin.com/pub/cris-carney/7/8a2/a7b/)
 
 
 Resume
