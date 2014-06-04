@@ -23,7 +23,7 @@ Thank you for your time and consideration!
 
 
 ##<span id="skills">Skills</span>
-*	Carreer in Technical Customer Supoort, since 2006.
+*	Carreer in Technical Customer Support, since 2006.
 *	Technical Support for computer hardware, software, online applications, websites
 *	Supporting desktops, laptops, printers, wireless connectivity, Microsoft Office
 *	Database Management Experience
