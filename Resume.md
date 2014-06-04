@@ -58,7 +58,7 @@ Thank you for your time and consideration!
 * Online Services- Support reporting running with current correct data, Training sessions with multiple users, Chat support, Founded and Ran the online forum. </br>
 
 ###OneHealthPort: 
-* Web based services- Single Sign-On, Makikng sure 1 user account can be used to access all health plans and services, and can access as many Tax ID Numbers as necessary.</br>
+* Web based services- Single Sign-On, Making sure 1 user account can be used to access all health plans and services, and can access as many Tax ID Numbers as necessary.</br>
 * Training- Admins, Users, Wrote Admin Guide and User Guide in step-by-step form for user reference.</br>
 * Knowledge Base- Created and Maintained company’s first knowledge based with articles covering all aspects of support including template emails and documentation for efficient use of time. </br>
 * Supporting over 100,000 users, 100-200 escalation tickets per week; verifying orgnizations for approval upon registration; providing back up support for Customer Service manager for Tier 1 contact and relaying important information to front line representatives; maintaining mailing letters to all new registrations monthly.</br>
