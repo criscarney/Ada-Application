@@ -33,10 +33,10 @@ Thank you for your time and consideration!
 ###Programs I've worked with, used, and supported: 
 | CRM Tools | Databases | Supported | Programming (some experience) |
 | ------------- | ------------- | ------------| ----------|
-| Service Desk  | Microsoft Access 97 | MS Outlook | Java Tutorial Udemmy.com |
+| Service Desk  | Microsoft Access 97 | MS Outlook & MS Exchange| Java Tutorial Udemmy.com |
 | Salesforce.com | Access 2000 | MS Office Suite 03, 0 | Installed Strawberry Perl |
 | Netsuite.com | Access 2003 | MS Vista, Windows 7, Windows 8 | Markdown |
-| Goldmine |  Access 2007 | MS Exchange | Github |
+| Goldmine |  Access 2007 | Office Hardware | Github |
 | Sharepoint | Access 2010 | Cell phones & Smart Phones |  HTML |
 | Active Directory | SQL 2005 & 2008 | Wireless Devices | Command Line |
 
