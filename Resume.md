@@ -148,6 +148,58 @@ Upon finding out Ada Developers Acadmeny in October of 2013, I have known I woul
 #<span id="recommendations">Recommendations</span>
 
 
+From Gail Thompson, OneHealthPort Office & Technical Support Manager.
+
+June 2014 
+
+Dear Ada Developers Academy Admissions Panel, 
+
+C:\Users\gthompson\Documents\OHP LOGO\logo.jpg
+I first met Cris when I interviewed her in January 2012 for a Tier 2 Technical Support Specialist position responsible 
+for managing new registrations as well as resolving escalated tickets for OneHealthPort. Her career goals at the 
+time were to obtain full time, benefitted employment with a company she loved, and to complete her Associates 
+Degree from Seattle Central Community College. She had unique customer service and technical support 
+experience and offered her a contract to hire position. She began February 8th, 2012. 
+
+Cris used her contract status to her benefit, taking classes during the day that she couldn’t take at night; coming in 
+early and leaving late to make up the hours, often working a 32-36 hour week. In that time the quality of her work 
+never faltered, and she took on more responsibilities assisting me with Tier 1 management, and learning billing 
+practices in order to be my complete back up. A year later, in January of 2013, she’d completed her AA, and 
+impressed with her work OneHealthPort offered her a full-time benefitted position in May of 2013. 
+
+Her career goals then shifted to gaining a higher education degree in order to secure a career doing something she 
+loved. In 2013, she took her prerequisites for the Health Informatics and Health Information Management program 
+at UW. It was after her last prerequisite she informed me that she chose not to pursue the HIHIM major, and she 
+was still on the lookout for the best program for her. 
+
+I’ve come to know I can rely on Cris to do her job well and that I can ask her to take on more tasks and 
+responsibilities as she always meets the company needs. It’s easy to see she quickly learns new technology and 
+processes. Cris has a passion for learning. Even as she is considering her options for educational goals, she has 
+remained enrolled in classes outside of work. 
+
+Her experience with OCS, Starbucks Helpdesk, and Verizon Wireless has exposed her to learn and support various 
+forms of hardware and software technology. Her experience, skills and knowledge are used to troubleshoot new 
+issues at OneHealthPort. Her ability to explain complex steps to novice users, in a way that makes the user feel 
+better and more empowered when they get off the phone, is going to be hard to replace. She’s an asset for our 
+company, and quite frankly I’d rather not see her leave. 
+
+However, I know how motivated Cris is and excited for her future. Ada Developers Academy would be lucky to 
+have such a dedicated, smart, and hard-working person as Cris Carney. She learns quickly and is highly self-
+motivated. I am confident she will succeed at whatever she set her mind to at work, at school and in life. 
+
+Sincerely, 
+
+ 
+
+Gail Thompson 
+
+Office & Technical Support Manager 
+
+OneHealthPort 
+
+---
+
+
 Dear Cris,<br />
 I've written this recommendation of your work to share with other LinkedIn users.
 
