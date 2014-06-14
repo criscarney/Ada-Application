@@ -147,14 +147,20 @@ Upon finding out Ada Developers Acadmeny in October of 2013, I have known I woul
 ---
 #<span id="recommendations">Recommendations</span>
 
+<a href="http://s56.photobucket.com/user/poetichk/media/OHP.jpg.html" target="_blank"><img src="http://i56.photobucket.com/albums/g191/poetichk/OHP.jpg" border="0" alt="OHP photo OHP.jpg"/></a>
 
-From Gail Thompson, OneHealthPort Office & Technical Support Manager.
 
-June 2014 
+From: 
+Gail Thompson<br>
+Office & Technical Support Manager<br>
+E: gthompson@onehealthport.com<br>
+P: 206-624-3128 Ext 115<br>
 
-Dear Ada Developers Academy Admissions Panel, 
+June, 2014
 
-C:\Users\gthompson\Documents\OHP LOGO\logo.jpg
+Dear Ada Developers Academy, 
+
+
 I first met Cris when I interviewed her in January 2012 for a Tier 2 Technical Support Specialist position responsible 
 for managing new registrations as well as resolving escalated tickets for OneHealthPort. Her career goals at the 
 time were to obtain full time, benefitted employment with a company she loved, and to complete her Associates 
