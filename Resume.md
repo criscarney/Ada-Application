@@ -8,6 +8,9 @@ Resume
 #### Email: cris.n.carney@gmail.com
 #### Address: 1512 E Fir St Lower Unit, Seatle, WA 98122
 
+
+Here's my [Ada Application Video](http://youtu.be/5rFdxVVoEOQ "Ada Application Video") on YouTube.
+
 Thank you for your time and consideration! 
 
 
